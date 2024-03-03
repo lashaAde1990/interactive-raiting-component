@@ -1,0 +1,33 @@
+.parent-one{
+    width: 412px;
+    height: 416px;
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+    border: none;
+    border-radius: 12px;
+    padding: 0 40px 0 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.parent-one img{
+    width: 162px;
+    height: 108px;
+    margin-top: 40px;
+}
+.choiced{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#FC7614;
+    margin-top: 20px;
+    background-color: #262E38;
+    padding: 2px 15px;
+    border-radius: 20px;
+}
+.thank{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#969FAD;
+}
